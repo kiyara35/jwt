@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39a791e2-40cd-4960-a90a-363eb9816ee2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/model/Auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22PzNERXLEasulqt6mnUu8Kgr1i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39a791e2-40cd-4960-a90a-363eb9816ee2" name="Default Changelist" comment="" />
+      <created>1639753968642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639753968642</updated>
+      <workItem from="1639753972048" duration="6637000" />
+      <workItem from="1639839633932" duration="4955000" />
+      <workItem from="1640042306142" duration="17730000" />
+      <workItem from="1640227672379" duration="11141000" />
+      <workItem from="1640296852474" duration="15716000" />
+      <workItem from="1640643492845" duration="945000" />
+      <workItem from="1642286845337" duration="52000" />
+      <workItem from="1642286924136" duration="401000" />
+      <workItem from="1642372653124" duration="1955000" />
+      <workItem from="1642547745651" duration="331000" />
+      <workItem from="1642565924801" duration="4292000" />
+      <workItem from="1642990218167" duration="40000" />
+      <workItem from="1643233790178" duration="7590000" />
+      <workItem from="1643424062145" duration="860000" />
+      <workItem from="1643665873611" duration="3563000" />
+      <workItem from="1643924794075" duration="7601000" />
+      <workItem from="1643994705899" duration="1829000" />
+      <workItem from="1644358119487" duration="1626000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1643994747134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1643994747134" />
+  </component>
+</project>
